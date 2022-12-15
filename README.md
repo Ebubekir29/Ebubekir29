@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
+[https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+)
 
 <!--
 **Ebubekir29/Ebubekir29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
