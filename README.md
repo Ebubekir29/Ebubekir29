@@ -1,7 +1,6 @@
 ### 
 
 <h1 align="center">Hi 👋, I'm Ebubekir Mert</h1>
-<p align="left"> <a href="https://twitter.com/ebubekir_mert29" target="blank"><img src="https://img.shields.io/twitter/follow/ebubekir_mert29?logo=twitter&style=for-the-badge" alt="ebubekir_mert29" /></a> </p>
 
 - 📫 How to reach me **mertbekir29@gmail.com**
 
@@ -10,8 +9,6 @@
 <a href="https://twitter.com/ebubekir_mert29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ebubekir_mert29" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ebubeki̇r mert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebubeki̇r mert" height="30" width="40" /></a>
 <a href="https://instagram.com/ebubeki̇r_mert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ebubeki̇r_mert" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mertbeki̇r29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mertbeki̇r29" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mert29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mert29" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,7 +17,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebubekir29&" alt="ebubekir29" /></p>
 
 
-
+<a href="https://www.hackerrank.com/mertbeki̇r29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mertbeki̇r29" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mert29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mert29" height="30" width="40" /></a>
 <div class="justify-content-center">
   <h1>Hi 👋, I'm Ebubekir Mert</h4>
 </div>
