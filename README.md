@@ -1,6 +1,6 @@
 ### 
 <div>
-  <h4>Hi 👋, I'm Ebubekir Mert</h4>
+  <h1>Hi 👋, I'm Ebubekir Mert</h4>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/ebubekir-mert/">
