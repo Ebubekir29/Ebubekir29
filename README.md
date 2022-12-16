@@ -1,5 +1,5 @@
 ### 
-<div>
+<div class="text-center">
   <h1>Hi 👋, I'm Ebubekir Mert</h4>
 </div>
 <div id="badges">
