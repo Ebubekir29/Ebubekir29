@@ -1,4 +1,4 @@
-### Merhab ben Ebubekir.
+### Hi 👋, I'm Ebubekir Mert
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ebubekir-mert/">
