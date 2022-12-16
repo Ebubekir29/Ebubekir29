@@ -1,5 +1,5 @@
 ### 
-<div class="text-center">
+<div class="justify-content-center">
   <h1>Hi 👋, I'm Ebubekir Mert</h4>
 </div>
 <div id="badges">
