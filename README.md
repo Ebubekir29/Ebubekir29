@@ -16,24 +16,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebubekir29&" alt="ebubekir29" /></p>
 
-
-<a href="https://www.hackerrank.com/mertbeki̇r29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mertbeki̇r29" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mert29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mert29" height="30" width="40" /></a>
-<div class="justify-content-center">
-  <h1>Hi 👋, I'm Ebubekir Mert</h4>
-</div>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/ebubekir-mert/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/ebubekir_mert/">
-    <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/Ebubekir_mert29">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
 <!--
 **Ebubekir29/Ebubekir29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
